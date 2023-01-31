@@ -1,0 +1,1 @@
+resource_name = "AZ-RG-121"
